@@ -1,8 +1,6 @@
 #ifndef TEXTBOX_H
 #define TEXTBOX_H
 #include "SDL.h"
-#include "SDL_image.h"
-#include "SDL_ttf.h"
 #include "SkBitmap.h"
 #include "SkCanvas.h"
 #include "SkString.h"
