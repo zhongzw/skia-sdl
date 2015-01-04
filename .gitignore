@@ -1,0 +1,16 @@
+out_vs2012/
+out/
+*.suo
+*.sdf
+*.log
+*.tlog
+*.lastbuildstate
+*.obj
+*.swp
+.android_config
+.DS_Store
+.gclient*
+*.pyc
+gyp/build/
+xcodebuild/
+TAGS
